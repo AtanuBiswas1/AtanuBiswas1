@@ -44,26 +44,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 📝 BBlog
-➡️ Blog platform built with React, Tailwind & Appwrite  
-✅ Authentication, CRUD posts, state management
-
-### 🤖 BChat
-➡️ AI Chatbot using React + Gemini API  
-✅ Multi chat sessions, local storage history
-
-### 💰 Expense Tracker (MERN)
-➡️ Personal finance management system  
-✅ API handling, charts & analytics
-
-### 🛒 D2D Fresh
-➡️ Full-stack grocery delivery platform  
-✅ User, Admin & Delivery workflow
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -79,7 +59,6 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: yourmail@email.com
 
 ---
 
