@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Atanu Biswas</h1>
+<h3 align="center">Frontend Developer | React.js Developer | MERN Stack Enthusiast</h3>
 
-<!--
-**AtanuBiswas1/AtanuBiswas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building modern web applications with clean UI & scalable architecture
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Working as **Junior Programmer (React.js Developer)**
+- ⚛️ Specialized in **React.js Frontend Development**
+- 🌱 Currently improving **Node.js, Express.js & Backend Architecture**
+- 🧠 Experience working with **DevExtreme, Zustand & React Query**
+- 📊 Building data-driven enterprise applications
+- 🎯 Goal: Become a **Full Stack MERN Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+
+### 🧰 Tools & Libraries
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/ReactQuery-000?style=for-the-badge&logo=react-query)
+![Zustand](https://img.shields.io/badge/Zustand-000?style=for-the-badge)
+![DevExtreme](https://img.shields.io/badge/DevExtreme-000?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+### 📝 BBlog
+➡️ Blog platform built with React, Tailwind & Appwrite  
+✅ Authentication, CRUD posts, state management
+
+### 🤖 BChat
+➡️ AI Chatbot using React + Gemini API  
+✅ Multi chat sessions, local storage history
+
+### 💰 Expense Tracker (MERN)
+➡️ Personal finance management system  
+✅ API handling, charts & analytics
+
+### 🛒 D2D Fresh
+➡️ Full-stack grocery delivery platform  
+✅ User, Admin & Delivery workflow
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AtanuBiswas&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 📧 Email: yourmail@email.com
+
+---
+
+## ⚡ Fun Fact
+
+✨ I enjoy building complex business dashboards & solving real-world UI challenges.
+
+---
+
+<p align="center">
+⭐ From <b>Atanu Biswas</b> — Let's build something amazing!
+</p>
