@@ -45,10 +45,7 @@
 
 # 📊 Coding Activity
 
-<table>
-<tr>
 
-<td width="48%" align="center">
 
 ### 📈 GitHub Analytics
 
@@ -56,27 +53,19 @@
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight&hide_border=true"/>
 
-</td>
 
-<td width="4%"></td>
-
-<td width="48%" align="center">
 
 ### 🧠 LeetCode Dashboard
 
 <img src="https://leetcard.jacoblin.cool/AtanuBiswas?theme=dark&font=baloo&ext=contest" />
 
-</td>
-
-</tr>
-</table>
 
 ---
 
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtanuBiswas/AtanuBiswas/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AtanuBiswas1/AtanuBiswas1/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
