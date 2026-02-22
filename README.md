@@ -17,19 +17,7 @@
 <table>
 <tr>
 
-<td width="48%" align="center">
-
-### 👨‍💻 Developer Mode
-
-<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" align="center">
+<td width="48%" align="left">
 
 ### 🛠️ Tech Stack
 
@@ -49,6 +37,17 @@
 
 </td>
 
+<td width="4%"></td>
+
+<td width="48%" align="right">
+
+### 👨‍💻 Developer Mode
+
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
+
+</td>
 </tr>
 </table>
 
