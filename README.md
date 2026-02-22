@@ -12,60 +12,67 @@
 
 ---
 
-## 👨‍💻 Developer Mode
+# 👨‍💻 Developer Zone
 
-<p align="center">
-  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<p align="center">
-💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
-</p>
+### 👨‍💻 Developer Mode
 
----
+<img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🛠️ Tech Stack
+💻 Coding • ☕ Debugging • 🚀 Building UI
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
+</td>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<td width="50%" align="center">
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+### 🛠️ Tech Stack
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,redux" />
-</p>
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
 
-<p>
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+#### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+#### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,redux" />
+
 ⚡ DevExtreme • React Query • Zustand
-</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Coding Activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtanuBiswas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight&hide_border=true"/>
-</p>
+<table>
+<tr>
+<td width="50%" align="center">
 
----
+### 📈 GitHub Analytics
 
-## 🧠 LeetCode Dashboard
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtanuBiswas&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" />
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🧠 LeetCode Dashboard
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" />
+
+</td>
+</tr>
+</table>
 
 ---
 
