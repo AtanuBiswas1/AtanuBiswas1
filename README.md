@@ -16,17 +16,20 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td width="48%" align="center">
 
 ### 👨‍💻 Developer Mode
 
 <img width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-💻 Coding • ☕ Debugging • 🚀 Building UI
+💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
 
 </td>
 
-<td width="50%" align="center">
+<td width="4%"></td>
+
+<td width="48%" align="center">
 
 ### 🛠️ Tech Stack
 
@@ -45,6 +48,7 @@
 ⚡ DevExtreme • React Query • Zustand
 
 </td>
+
 </tr>
 </table>
 
@@ -54,7 +58,8 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
+
+<td width="48%" align="center">
 
 ### 📈 GitHub Analytics
 
@@ -64,13 +69,16 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="4%"></td>
+
+<td width="48%" align="center">
 
 ### 🧠 LeetCode Dashboard
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/AtanuBiswas?theme=dark&font=baloo&ext=contest" />
 
 </td>
+
 </tr>
 </table>
 
@@ -87,10 +95,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK">
+  <a href="http://www.linkedin.com/in/atanu-biswas-developer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOURMAIL@email.com">
+  <a href="mailto:atanubiswas341@email.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
