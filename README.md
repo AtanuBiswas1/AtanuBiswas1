@@ -14,10 +14,7 @@
 
 # 👨‍💻 Developer Zone
 
-<table>
-<tr>
 
-<td width="48%" align="left">
 
 ### 🛠️ Tech Stack
 
@@ -35,11 +32,7 @@
 
 ⚡ DevExtreme • React Query • Zustand
 
-</td>
 
-<td width="4%"></td>
-
-<td width="48%" align="right">
 
 ### 👨‍💻 Developer Mode
 
@@ -47,9 +40,6 @@
 
 💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
 
-</td>
-</tr>
-</table>
 
 ---
 
