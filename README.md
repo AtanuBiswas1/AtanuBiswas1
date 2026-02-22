@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Atanu Biswas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React.js+Specialist;Building+Scalable+Web+Interfaces;JavaScript+%7C+MERN+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React.js+Specialist;Building+Modern+Web+Apps;JavaScript+%7C+MERN+Stack" />
 </p>
 
 <p align="center">
@@ -12,14 +12,15 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Developer Mode
 
-✨ Frontend-focused developer passionate about building clean, performant and data-driven web applications.
+<p align="center">
+  <img width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
-- ⚛️ Strong focus on React ecosystem
-- 📊 Experience building enterprise dashboards & complex UI flows
-- 🧩 Love solving real-world UI & data problems
-- 🚀 Always learning and improving
+<p align="center">
+💻 Coding • ☕ Debugging • 🚀 Building UI Experiences
+</p>
 
 ---
 
@@ -40,13 +41,13 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🧰 Tools & Libraries
+### 🧰 Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,redux" />
 </p>
 
-<p align="left">
-  ⚡ DevExtreme • React Query • Zustand
+<p>
+⚡ DevExtreme • React Query • Zustand
 </p>
 
 ---
@@ -54,12 +55,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AtanuBiswas&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanuBiswas&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AtanuBiswas&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AtanuBiswas&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -94,5 +91,5 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting — Happy Coding!
 </p>
